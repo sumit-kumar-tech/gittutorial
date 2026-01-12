@@ -15,3 +15,9 @@
 `git pusg origin main`
 ### reset
 `git reset [filename]`
+### Check branch name
+`git branch`
+### Create new branch
+`git branch developer`
+### Switch to other branch
+`git checkout branch-name`
