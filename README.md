@@ -13,3 +13,5 @@
 `git remote add origin https://github.com/sumit-kumar-tech/gittutorial.git`
 ### Push
 `git pusg origin main`
+### reset
+`git reset [filename]`
